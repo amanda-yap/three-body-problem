@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: rgb(1, 10, 30);
+    overflow: hidden;
+}
+
+h1 {
+    color: #f6f6ea;
+    text-align: center;
+    font-family: "Space Grotesk", sans-serif;
+    padding-top: 50px;
+}
