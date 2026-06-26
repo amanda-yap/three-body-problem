@@ -9,7 +9,7 @@ export function draw(ctx, canvas) {
 
     for (const b of bodies) {
         ctx.strokeStyle = b.color;
-        ctx.lineWidth = 2;
+        ctx.lineWidth = 3;
         ctx.beginPath();
 
         // draw trail

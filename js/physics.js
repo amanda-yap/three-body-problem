@@ -35,7 +35,7 @@ export function step() {
             y: bodies[i].y
         });
 
-        if (bodies[i].trail.length > 1000)
+        if (bodies[i].trail.length > 150) // will probably replace this with circular buffer
             bodies[i].trail.shift();
     }
 }
