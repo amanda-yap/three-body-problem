@@ -2,7 +2,7 @@ import { bodies, scale } from "./bodies.js";
 
 export function draw(ctx, canvas) {
 
-    // clear canvas
+    // clear canvas (with slight opacity for trail fade)
     ctx.fillStyle = "rgba(1, 10, 30, 0.10)";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
