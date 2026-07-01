@@ -1,6 +1,6 @@
 export const G = 1;
 export const scale = 300;
-export const dt = 0.005;
+export const dt = 0.0005;
 
 export let bodies = [];
 
