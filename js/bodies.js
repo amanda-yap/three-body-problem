@@ -42,33 +42,6 @@ export const orbitPresets = {
             color: "#3399FF"
         }
     ],
-
-    butterfly: [
-        {
-            x: -1,
-            y: 0,
-            vx: 0.30689,
-            vy: 0.12551,
-            m: 1,
-            color: "#FF8000"
-        },
-        {
-            x:  1,
-            y: 0,
-            vx: 0.30689,
-            vy: 0.12551,
-            m: 1,
-            color: "#FFFF99"
-        },
-        {
-            x: 0,
-            y: 0,
-            vx: -0.61378,
-            vy: -0.25102,
-            m: 1,
-            color: "#3399FF"        
-        }
-    ],
     moth1: [
         {
             x: -1,
@@ -91,58 +64,6 @@ export const orbitPresets = {
             y: 0,
             vx: -0.928890,
             vy: -0.792120,
-            m: 1,
-            color: "#3399FF"
-        }
-    ],
-    dragonfly: [
-        {
-            x: -1,
-            y: 0,
-            vx: 0.08058,
-            vy: 0.58884,
-            m: 1,
-            color: "#FF8000"
-        },
-        {
-            x: 1,
-            y: 0,
-            vx: 0.08058,
-            vy: 0.58884,
-            m: 1,
-            color: "#FFFF99"
-        },
-        {
-            x: 0,
-            y: 0,
-            vx: -0.16116,
-            vy: -1.17768,
-            m: 1,
-            color: "#3399FF"
-        }
-    ],
-    yinyang1: [
-        {
-            x: -1,
-            y: 0,
-            vx: 0.51394,
-            vy: 0.30474,
-            m: 1,
-            color: "#FF8000"
-        },
-        {
-            x: 1,
-            y: 0,
-            vx: 0.51394,
-            vy: 0.30474,
-            m: 1,
-            color: "#FFFF99"
-        },
-        {
-            x: 0,
-            y: 0,
-            vx: -1.02788,
-            vy: -0.60948,
             m: 1,
             color: "#3399FF"
         }
