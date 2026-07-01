@@ -104,7 +104,7 @@ export function step() {
             y: bodies[i].y
         });
 
-        if (bodies[i].trail.length > 150)
+        if (bodies[i].trail.length > 1000)
             bodies[i].trail.shift();
     }
 }

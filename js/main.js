@@ -4,7 +4,7 @@ import { setOrbit } from "./bodies.js";
 
 const canvas = document.getElementById("c");
 const ctx = canvas.getContext("2d");
-const STEPS_PER_FRAME = 10;
+const STEPS_PER_FRAME = 15;
 
 // Orbit selector
 const orbitSelect = document.getElementById("orbitSelect");
